@@ -1,2 +1,1 @@
-# atumokjoh
-atumokjoh
+# myastro.github.io
